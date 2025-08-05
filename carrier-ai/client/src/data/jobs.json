@@ -1,0 +1,20 @@
+[
+    {
+      "region": "Tamil Nadu",
+      "jobs": [
+        "Software Developer",
+        "UI/UX Designer",
+        "Data Analyst",
+        "Digital Marketing Executive"
+      ]
+    },
+    {
+      "region": "Karnataka",
+      "jobs": [
+        "Machine Learning Engineer",
+        "DevOps Engineer",
+        "Full Stack Developer"
+      ]
+    }
+  ]
+  

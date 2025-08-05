@@ -1,0 +1,46 @@
+.skill-game {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 25px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    font-family: 'Segoe UI', sans-serif;
+    text-align: center;
+  }
+  
+  .skill-game h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .question-box {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+  }
+  
+  .options button {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    background-color: #ffffff;
+    cursor: pointer;
+  }
+  
+  .options button:hover {
+    background-color: #e0f7fa;
+  }
+  
+  .score {
+    font-size: 20px;
+    color: #28a745;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
